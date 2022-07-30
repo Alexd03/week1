@@ -14,7 +14,7 @@ Classes can contain multiple objects and allow you to edit them while objects is
 
 e. What do you think are the differences between strict equality and abstract 
 equality?
-Strict eq is more commonly used and when you try to use abstact you culd get the same results but its less controlled and might throw errors 
+Strict eq is more commonly used and when you try to use abstact you could get the same results but its less controlled and might throw errors your way
 
 f. Where do you think the concept of truthy/falsy might be useful?
-Checking if a variable has any value to it, if not you can replace or put something in it
+Checking if a variable has any value to it, if not you can replace or put something inside it.
